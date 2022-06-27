@@ -1,11 +1,15 @@
 # NANO
 
+![Title](./images/Nano-Title.png)
+
 ## Overview and Origin
 
-- NANO DIGITAL HOME LOAN is provided by
+- NANO DIGITAL HOME LOANS is provided by
   Digital Mortgage Solutions Pty Ltd. The company was registered on 5 September 2018.
 
-- Founded by ex-Westpac executives Andrew Walker and Chris Lumby, NANO was established with the belief it could leverage technology to solve pain points in the approval process that has blown out to more than a month with some lenders.
+![founders](./images/Blog_Andrew_and_Chris.jpeg)
+
+- Founded by ex-Westpac executives Andrew Walker (left) and Chris Lumby (right), NANO was established with the belief it could leverage technology to solve pain points in the approval process that has blown out to more than a month with some lenders.
 
 - The founders believed an over-reliance on legacy systems, and a lack of appetite for innovation regarding improved customer experience at big four institutions meant there would be a big demand for a smarter option.
 
@@ -34,6 +38,8 @@
 - NANO obtains data from CoreLogic to determine the suitability of the security property. High quality property data and the application of machine learning make it possible to quickly assess a property with a high degree of confidence.
 
 ## Landscape:
+
+![market](./images/deloitte-au-residential-mortgage-lending2000-2019.webp)
 
 - NANO operates in the Australian home loan market. The total value of owner-occupier home loans written in Australia in April 2022 was $17.39 billion, with the average Australian home loan size being $611,158.
 
@@ -95,3 +101,4 @@
 - [https://www.afr.com/work-and-careers/management/athena-home-loans-is-the-most-innovative-company-of-2021-20211006-p58xqw](https://www.afr.com/work-and-careers/management/athena-home-loans-is-the-most-innovative-company-of-2021-20211006-p58xqw)
 - [https://www.smh.com.au/business/banking-and-finance/digital-mortgage-battle-to-erupt-as-fintechs-eye-home-loans-20211213-p59h7l.html](https://www.smh.com.au/business/banking-and-finance/digital-mortgage-battle-to-erupt-as-fintechs-eye-home-loans-20211213-p59h7l.html)
 - [https://www.ausbanking.org.au/priorities/open-banking/](https://www.ausbanking.org.au/priorities/open-banking/)
+- [IBIS Industry Report - Mortgages in Australia](./data/X0010%20Mortgages%20in%20Australia%20Industry%20Report.pdf)
