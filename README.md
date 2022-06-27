@@ -84,8 +84,8 @@
 
 - This would require:
 
-  - utilising Open Banking platform to access transactions from customer's other bank accounts;
-  - AI/ML to provide real time monitor and assess the risk profile of the customers
+  - utilising Open Banking platform to access transactions from customer's other bank accounts; and
+  - AI/ML to provide real time monitor and assess the risk profile of the customers.
 
 ## Links
 
